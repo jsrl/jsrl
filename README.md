@@ -43,7 +43,7 @@ Hi there! I'm **jsrl**, a **Data Engineer** passionate about designing, building
 
 ## 📊 GitHub Stats
 
-![jsrl's Stats](https://github-readme-stats.vercel.app/api?username=jsrl&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
+[![jsrl's Stats](https://github-readme-stats.vercel.app/api?username=jsrl)](https://github.com/jsrl/github-readme-stats)
 
 ---
 

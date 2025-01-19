@@ -32,6 +32,15 @@ Hi there! I'm **jsrl**, a **Data Engineer** passionate about designing, building
 
 ---
 
+🔧 Other technologies
+
+![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=Terraform&logoColor=FFFFFF)
+![Snowflake](https://img.shields.io/badge/Snowflake-222222?style=for-the-badge&logo=Snowflake&logoColor=29B5E8)
+![dbt](https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=FFFFFF)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=Spring+Boot&logoColor=FFFFFF)
+
+---
+
 ## 📊 GitHub Stats
 
 ![jsrl's Stats](https://github-readme-stats.vercel.app/api?username=jsrl&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)

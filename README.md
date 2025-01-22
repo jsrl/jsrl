@@ -1,17 +1,18 @@
-# About Me 👋
+## About Me 👋
 
-Hi there! I'm **jsrl**, a **Data Engineer** passionate about designing, building, and optimizing data pipelines. Welcome to my repository! 🚀
+Hi there! I'm **jsrl**, a **Data Engineer** driven by a passion for designing, building, and optimizing modern data pipelines. Welcome to my repository! 🚀
 
 ---
 
 ## 👨‍💻 Who Am I?
-- 📊 Focused on creating scalable and efficient **ETL processes** and solving data challenges.
-- 🌱 Continuously exploring the latest trends in **Big Data technologies**, **Cloud Platforms**, and **Data Architecture**.
-- 🎯 Dedicated to turning raw data into meaningful insights to drive decision-making.
+- 📊 Specializing in creating **scalable**, **efficient**, and **reliable** ETL workflows to tackle complex data challenges.  
+- 🌱 Constantly exploring the evolving landscape of **Big Data technologies**, **Cloud Platforms**, and **Data Architecture** to stay ahead of the curve.  
+- 🎯 Committed to transforming raw data into actionable insights, empowering smarter decisions and impactful outcomes.  
 
 ---
 
 ## 🛠️ Languages
+*Where I’m fluent and feel at home:*  
 
 ![Scala](https://img.shields.io/badge/Scala-DC322F?style=for-the-badge&logo=Scala&logoColor=FFFFFF)
 ![Python](https://img.shields.io/static/v1?style=for-the-badge&message=Python&color=3776AB&logo=Python&logoColor=FFFFFF&label=)
@@ -20,6 +21,7 @@ Hi there! I'm **jsrl**, a **Data Engineer** passionate about designing, building
 ---
 
 ## 🚀 Technologies & Tools
+*Where I thrive, building and exploring:*  
 
 ![Apache Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=Apache+Spark&logoColor=FFFFFF)
 ![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=Databricks&logoColor=FFFFFF)
@@ -33,6 +35,7 @@ Hi there! I'm **jsrl**, a **Data Engineer** passionate about designing, building
 ---
 
 ## 🔧 Other technologies
+*My playground for discovery and innovation:*  
 
 ![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=Terraform&logoColor=FFFFFF)
 ![Snowflake](https://img.shields.io/badge/Snowflake-222222?style=for-the-badge&logo=Snowflake&logoColor=29B5E8)

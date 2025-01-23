@@ -12,16 +12,14 @@ Hi there! I'm **jsrl**, a **Data Engineer** driven by a passion for designing, b
 ---
 
 ## 🛠️ Languages
-*Where I’m fluent and feel at home:*  
 
-![Scala](https://img.shields.io/badge/Scala-DC322F?style=for-the-badge&logo=Scala&logoColor=FFFFFF)
 ![Python](https://img.shields.io/static/v1?style=for-the-badge&message=Python&color=3776AB&logo=Python&logoColor=FFFFFF&label=)
+![Scala](https://img.shields.io/badge/Scala-DC322F?style=for-the-badge&logo=Scala&logoColor=FFFFFF)
 ![PostgreSQL](https://img.shields.io/static/v1?style=for-the-badge&message=PostgreSQL&color=4169E1&logo=PostgreSQL&logoColor=FFFFFF&label=)
 
 ---
 
 ## 🚀 Technologies & Tools
-*Where I thrive, building and exploring:*  
 
 ![Apache Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=Apache+Spark&logoColor=FFFFFF)
 ![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=Databricks&logoColor=FFFFFF)
@@ -35,7 +33,6 @@ Hi there! I'm **jsrl**, a **Data Engineer** driven by a passion for designing, b
 ---
 
 ## 🔧 Other technologies
-*My playground for discovery and innovation:*  
 
 ![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=Terraform&logoColor=FFFFFF)
 ![Snowflake](https://img.shields.io/badge/Snowflake-222222?style=for-the-badge&logo=Snowflake&logoColor=29B5E8)

@@ -4,13 +4,6 @@ Hi there! I'm **jsrl**, a **Data Engineer** driven by a passion for designing, b
 
 ---
 
-## 👨‍💻 Who Am I?
-- 📊 Specializing in creating **scalable**, **efficient**, and **reliable** ETL workflows to tackle complex data challenges.  
-- 🌱 Constantly exploring the evolving landscape of **Big Data technologies**, **Cloud Platforms**, and **Data Architecture** to stay ahead of the curve.  
-- 🎯 Committed to transforming raw data into actionable insights, empowering smarter decisions and impactful outcomes.  
-
----
-
 ## 🛠️ Languages
 
 ![Python](https://img.shields.io/static/v1?style=for-the-badge&message=Python&color=3776AB&logo=Python&logoColor=FFFFFF&label=)

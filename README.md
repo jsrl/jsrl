@@ -1,6 +1,6 @@
 ## About Me 👋
 
-Hi there! I'm **jsrl**, a **Data Engineer** driven by a passion for designing, building, and optimizing modern data pipelines. Welcome to my repository! 🚀
+Hi there! I'm **jsrl**, a **Data Engineer** driven by a passion for designing, building, and optimizing modern data pipelines. Welcome! 🚀
 
 ---
 

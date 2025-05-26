@@ -23,11 +23,9 @@ Hi there! I'm **jsrl**, a **Data Engineer** driven by a passion for designing, b
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=Jupyter&logoColor=FFFFFF)
 
 ---
-
-## 📊 GitHub Stats
-
+<!-- ## 📊 GitHub Stats -->
 ![jsrl's Stats](https://github-readme-stats.vercel.app/api?username=jsrl&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
-![jsrl's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jsrl&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
+<!-- ![jsrl's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jsrl&theme=vue-dark&show_icons=true&hide_border=true&layout=compact) -->
 
 ---
 
